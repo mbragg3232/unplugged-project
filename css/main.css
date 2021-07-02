@@ -310,7 +310,7 @@ textarea {
     .features .features-items {
       display: flex;
       justify-content: center;
-      align-items: center;
+      align-items: flex-start;
       flex-flow: row wrap;
     }
 
@@ -318,6 +318,11 @@ textarea {
       width: 60%;
       margin: 30px 0;
       text-align: center;
+    }
+
+    .features i {
+      font-size: 3.75em;
+      margin-bottom: 30px;
     }
 
     .features p {
