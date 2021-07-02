@@ -234,6 +234,14 @@ textarea {
       margin: 0;
     }
 
+    footer .social-icons i {
+      background-color: #e2e3ed;
+      color: #527158;
+      border-radius: 100%;
+      font-size: 2.5em;
+      margin: 10px;
+    }
+
     footer .copyright {
       margin: 20px 0;
     }
