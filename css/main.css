@@ -122,7 +122,7 @@ textarea {
       font-size: 1em;
       margin: 20px 0;
       font-weight: 500;
-}
+  }
 
     p {
       font-size: 0.875em;
@@ -200,6 +200,7 @@ textarea {
       display: flex;
       justify-content: space-around;
       width: 100%;
+      padding-left: 0px;
     }
 
     /* ---------Footer Styles ------------*/
@@ -615,7 +616,7 @@ aside .form {
   /* Footer */
   footer .content-wrapper {
     width: 65%;
-    margin: 100px 0;
+    margin: 20px 0;
   }
 
   .footer-content {
@@ -723,16 +724,6 @@ aside .form {
         width: 47%;
       }
 
-  /*Footer*/
-
-    footer .content-wrapper {
-      width: 80%;
-    }
-
-    footer .content-wrapper {
-      width: 50%;
-      margin: 20px;
-    }
 
     /*Footer*/
 
