@@ -634,6 +634,10 @@ aside .form {
     width: 45%;
   }
 
+  .map figure{
+    padding-bottom: 45%;
+  }
+
   .contact-section .content-wrapper h2 {
     width: 80%;
   }
@@ -738,8 +742,11 @@ aside .form {
                               About Page
    ========================================================================== */
    .contact-section {
-    width: 60%;
-    margin-left: 17%;
+    width: 100%;
+  }
+
+  .map figure {
+    padding-top: 37%
   }
 
     /* ==========================================================================
